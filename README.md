@@ -1,6 +1,6 @@
 # Dining-Paws
-Dining hall menu application for the University of Connecticut
+dining hall menu application for the university of connecticut
 
-Published on the App Store September 2017
+published on the app store september 2017
 
-Available for iPhone
+available for iphone
