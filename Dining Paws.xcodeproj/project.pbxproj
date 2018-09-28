@@ -11,8 +11,6 @@
 		B36AA01E1F5508D8008589DD /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B36AA01D1F5508D8008589DD /* InfoViewController.swift */; };
 		B3722AB91F4D2A3900BFBD1C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3722AB81F4D2A3900BFBD1C /* AppDelegate.swift */; };
 		B3722AC01F4D2A3900BFBD1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3722ABF1F4D2A3900BFBD1C /* Assets.xcassets */; };
-		B3722ACE1F4D2A3900BFBD1C /* Dining_PawsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3722ACD1F4D2A3900BFBD1C /* Dining_PawsTests.swift */; };
-		B3722AD91F4D2A3900BFBD1C /* Dining_PawsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3722AD81F4D2A3900BFBD1C /* Dining_PawsUITests.swift */; };
 		B3722AEB1F4D2AB000BFBD1C /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3722AE61F4D2AB000BFBD1C /* Data.swift */; };
 		B3722AEC1F4D2AB000BFBD1C /* DiningHallsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3722AE71F4D2AB000BFBD1C /* DiningHallsViewController.swift */; };
 		B3722AED1F4D2AB000BFBD1C /* DaysViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3722AE81F4D2AB000BFBD1C /* DaysViewController.swift */; };
@@ -43,16 +41,12 @@
 /* Begin PBXFileReference section */
 		B36AA0191F54F7AF008589DD /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
 		B36AA01D1F5508D8008589DD /* InfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
-		B3722AB51F4D2A3900BFBD1C /* Dining Paws.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dining Paws.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B3722AB51F4D2A3900BFBD1C /* Dining Paws.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Dining Paws.app"; path = "/Users/alexanderkerendian/Documents/Xcode/Projects/sag-paa/build/Debug-iphoneos/Dining Paws.app"; sourceTree = "<absolute>"; };
 		B3722AB81F4D2A3900BFBD1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B3722ABF1F4D2A3900BFBD1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B3722AC41F4D2A3900BFBD1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B3722AC91F4D2A3900BFBD1C /* Dining PawsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dining PawsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B3722ACD1F4D2A3900BFBD1C /* Dining_PawsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dining_PawsTests.swift; sourceTree = "<group>"; };
-		B3722ACF1F4D2A3900BFBD1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B3722AD41F4D2A3900BFBD1C /* Dining PawsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dining PawsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B3722AD81F4D2A3900BFBD1C /* Dining_PawsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dining_PawsUITests.swift; sourceTree = "<group>"; };
-		B3722ADA1F4D2A3900BFBD1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3722AC91F4D2A3900BFBD1C /* Dining PawsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Dining PawsTests.xctest"; path = "/Users/alexanderkerendian/Documents/Xcode/Projects/sag-paa/build/Debug-iphoneos/Dining PawsTests.xctest"; sourceTree = "<absolute>"; };
+		B3722AD41F4D2A3900BFBD1C /* Dining PawsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Dining PawsUITests.xctest"; path = "/Users/alexanderkerendian/Documents/Xcode/Projects/sag-paa/build/Debug-iphoneos/Dining PawsUITests.xctest"; sourceTree = "<absolute>"; };
 		B3722AE61F4D2AB000BFBD1C /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		B3722AE71F4D2AB000BFBD1C /* DiningHallsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiningHallsViewController.swift; sourceTree = "<group>"; };
 		B3722AE81F4D2AB000BFBD1C /* DaysViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DaysViewController.swift; sourceTree = "<group>"; };
@@ -94,20 +88,7 @@
 			children = (
 				B36AA0191F54F7AF008589DD /* GoogleMobileAds.framework */,
 				B3722AB71F4D2A3900BFBD1C /* Dining Paws */,
-				B3722ACC1F4D2A3900BFBD1C /* Dining PawsTests */,
-				B3722AD71F4D2A3900BFBD1C /* Dining PawsUITests */,
-				B3722AB61F4D2A3900BFBD1C /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		B3722AB61F4D2A3900BFBD1C /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				B3722AB51F4D2A3900BFBD1C /* Dining Paws.app */,
-				B3722AC91F4D2A3900BFBD1C /* Dining PawsTests.xctest */,
-				B3722AD41F4D2A3900BFBD1C /* Dining PawsUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		B3722AB71F4D2A3900BFBD1C /* Dining Paws */ = {
@@ -127,24 +108,6 @@
 				B3722AC41F4D2A3900BFBD1C /* Info.plist */,
 			);
 			path = "Dining Paws";
-			sourceTree = "<group>";
-		};
-		B3722ACC1F4D2A3900BFBD1C /* Dining PawsTests */ = {
-			isa = PBXGroup;
-			children = (
-				B3722ACD1F4D2A3900BFBD1C /* Dining_PawsTests.swift */,
-				B3722ACF1F4D2A3900BFBD1C /* Info.plist */,
-			);
-			path = "Dining PawsTests";
-			sourceTree = "<group>";
-		};
-		B3722AD71F4D2A3900BFBD1C /* Dining PawsUITests */ = {
-			isa = PBXGroup;
-			children = (
-				B3722AD81F4D2A3900BFBD1C /* Dining_PawsUITests.swift */,
-				B3722ADA1F4D2A3900BFBD1C /* Info.plist */,
-			);
-			path = "Dining PawsUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -241,7 +204,7 @@
 				Base,
 			);
 			mainGroup = B3722AAC1F4D2A3900BFBD1C;
-			productRefGroup = B3722AB61F4D2A3900BFBD1C /* Products */;
+			productRefGroup = B3722AAC1F4D2A3900BFBD1C;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -299,7 +262,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3722ACE1F4D2A3900BFBD1C /* Dining_PawsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,7 +269,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3722AD91F4D2A3900BFBD1C /* Dining_PawsUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
